@@ -1,13 +1,13 @@
 # Small_Minecraft
 
 #### 一、How to play the game
-1、WASD控制人物移動，加shift可奔跑，空白鍵可跳躍
-2、Y播放bgm、T暫停bgm，U切換bgm
-3、左鍵可收集物品、消除怪物，想要產生inventory內的物品要先點選inventory內該物品再點右鍵
-4、按c可切換視角(3段式)
-5、q鍵、e鍵可以做人物旋轉
-6、k鍵加速日夜轉換，搭配shift會更快速
-7、p鍵回選單
+1、WASD控制人物移動，加shift可奔跑，空白鍵可跳躍  
+2、Y播放bgm、T暫停bgm，U切換bgm  
+3、左鍵可收集物品、消除怪物，想要產生inventory內的物品要先點選inventory內該物品再點右鍵  
+4、按c可切換視角(3段式)  
+5、q鍵、e鍵可以做人物旋轉  
+6、k鍵加速日夜轉換，搭配shift會更快速  
+7、p鍵回選單  
 `注意事項`：只有一開始的選單是用點擊的，後面出現的選單開始是S，暫停或繼續是P，結束是E
 
 #### 二、Game flow
